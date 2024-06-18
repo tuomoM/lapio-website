@@ -3,11 +3,14 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Lapio website</title>
+  <title>Seitsemän veljestä</title>
 </head>
 
 <body>
   <!--Tee tehtävät tänne-->
+  <h1>Ensimmäinen luku </h1>
+  <p>Jukolan talo, eteläisessä Hämeessä, seisoo erään mäen pohjoisella rinteellä, liki Toukolan kylää</p>
+  <p> Sen läheinen ympäristö on kivinen tanner, mutta alempana alkaa, jossa ennen kuin talo oli häviöön mennyt, aaltoili terinen vilja </p>
 </body>
 
 </html>
