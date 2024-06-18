@@ -9,7 +9,7 @@
 <body>
   <!--Tee tehtävät tänne-->
   <h1>Ensimmäinen luku </h1>
-  <p>Jukolan talo, eteläisessä Hämeessä, seisoo erään mäen pohjoisella rinteellä, liki Toukolan kylää</p>
+  <p><strong>Jukolan talo</strong>, eteläisessä <i>Hämeessä</i>, seisoo erään mäen pohjoisella rinteellä, liki <strong><i>Toukolan kylää</i></strong> .</p>
   <p> Sen läheinen ympäristö on kivinen tanner, mutta alempana alkaa, jossa ennen kuin talo oli häviöön mennyt, aaltoili terinen vilja </p>
 </body>
 
